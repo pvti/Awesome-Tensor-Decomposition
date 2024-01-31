@@ -1,4 +1,4 @@
-# Awesome Tensor Decomposition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Tensor Decomposition 
 A curated list of tensor decomposition resources for *network compression*.
 
 ## :clipboard: Research Papers
