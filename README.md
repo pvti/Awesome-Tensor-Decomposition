@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Code      | Venue      | Year |
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
+| [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) || Applied Soft Computing | 2023 |
 | [An effective low-rank compression with a joint rank selection followed by a compression-friendly training](https://www.sciencedirect.com/science/article/pii/S0893608023000242) || Neural Networks | 2023 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) || CVPR | 2022 |
 | [Towards Compact Neural Networks via End-to-End Training: A Bayesian Tensor Approach with Automatic Rank Determination](https://arxiv.org/abs/2010.08689) |[![GitHub Repo stars](https://img.shields.io/github/stars/colehawkins/bayesian-tensor-rank-determination)](https://github.com/colehawkins/bayesian-tensor-rank-determination)| SIMODS | 2022 |
