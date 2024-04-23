@@ -5,9 +5,12 @@ A curated list of tensor decomposition resources for *network compression*.
 | Title                                                        | Code      | Venue      | Year |
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) |[![GitHub Repo stars](https://img.shields.io/github/stars/pvtien96/NORTON)](https://github.com/pvtien96/NORTON)| TNNLS | 2024 |
+| [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) || Neural Processing Letters | 2024 |
+| [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) || TNNLS | 2023 |
 | [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) || Applied Soft Computing | 2023 |
 | [An effective low-rank compression with a joint rank selection followed by a compression-friendly training](https://www.sciencedirect.com/science/article/pii/S0893608023000242) || Neural Networks | 2023 |
 | [Joint matrix decomposition for deep convolutional neural networks compression](https://www.sciencedirect.com/science/article/pii/S0925231222012887) || Neurocomputing | 2023 |
+| [Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization](https://arxiv.org/abs/2309.03824) || Arxiv | 2023 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) || CVPR | 2022 |
 | [Convolutional Neural Network Compression through Generalized Kronecker Product Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/19958) || AAAI | 2022 |
 | [Towards Compact Neural Networks via End-to-End Training: A Bayesian Tensor Approach with Automatic Rank Determination](https://arxiv.org/abs/2010.08689) |[![GitHub Repo stars](https://img.shields.io/github/stars/colehawkins/bayesian-tensor-rank-determination)](https://github.com/colehawkins/bayesian-tensor-rank-determination)| SIMODS | 2022 |
@@ -17,10 +20,11 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) |[![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
 | [Learning Low-rank Deep Neural Networks via Singular Vector Orthogonality Regularization and Singular Value Sparsification](https://arxiv.org/abs/2004.09031) |[![GitHub Repo stars](https://img.shields.io/github/stars/yanghr/SVD_Prune_EDLCV)](https://github.com/yanghr/SVD_Prune_EDLCV)| CVPRW | 2020 |
 | [ADA-Tucker: Compressing deep neural networks via adaptive dimension adjustment tucker decomposition](https://www.sciencedirect.com/science/article/pii/S0893608018303010) || Neural Networks | 2019 |
+| [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/abs/1908.08932) |[![GitHub Repo stars](https://img.shields.io/github/stars/ofsoundof/learning_filter_basis)](https://github.com/ofsoundof/learning_filter_basis)| ICCV | 2019 |
 | [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) || TPAMI | 2016 |
 | [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) || ICLR | 2016 |
 | [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553) || ICLR | 2015 |
-| [Speeding up Convolutional Neural Networks with Low Rank Expansions](https://arxiv.org/abs/1405.3866) || Preprint | 2014 |
+| [Speeding up Convolutional Neural Networks with Low Rank Expansions](https://arxiv.org/abs/1405.3866) || Arxiv | 2014 |
 
 ## :books: Surveys
 | Title                                                        | Venue      | Year |
