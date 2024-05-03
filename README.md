@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Code      | Venue      | Year |
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
+| [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | | TNNLS | 2024 |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) |[![GitHub Repo stars](https://img.shields.io/github/stars/pvtien96/NORTON)](https://github.com/pvtien96/NORTON)| TNNLS | 2024 |
 | [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) || Neural Processing Letters | 2024 |
 | [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) || TNNLS | 2023 |
