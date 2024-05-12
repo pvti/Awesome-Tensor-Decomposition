@@ -30,7 +30,8 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :books: Surveys
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
-| [Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](https://arxiv.org/abs/2302.09019) [![GitHub Repo stars](https://img.shields.io/github/stars/tnbar/awesome-tensorial-neural-networks)](https://github.com/tnbar/awesome-tensorial-neural-networks)| Preprint | 2023 |
+| [Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training](https://arxiv.org/abs/2303.13635)| Arxiv | 2023 |
+| [Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](https://arxiv.org/abs/2302.09019) [![GitHub Repo stars](https://img.shields.io/github/stars/tnbar/awesome-tensorial-neural-networks)](https://github.com/tnbar/awesome-tensorial-neural-networks)| Arxiv | 2023 |
 | [Tensor Decomposition for Signal Processing and Machine Learning](https://ieeexplore.ieee.org/abstract/document/7891546) | IEEE Transactions on Signal Processing | 2017 |
 | [The Higher-Order Singular Value Decomposition: Theory and an Application](https://ieeexplore.ieee.org/document/5447070) | IEEE Signal Processing Magazine | 2010 |
 | [Tensor Decompositions and Applications](https://epubs.siam.org/doi/10.1137/07070111X) | SIAM Review | 2009 |
