@@ -6,6 +6,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | | TNNLS | 2024 |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) |[![GitHub Repo stars](https://img.shields.io/github/stars/pvtien96/NORTON)](https://github.com/pvtien96/NORTON)| TNNLS | 2024 |
+| [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) |[![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-AdversarialNAS)](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)| ICASSP | 2024 |
 | [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) || Neural Processing Letters | 2024 |
 | [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) || TNNLS | 2023 |
 | [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) || Applied Soft Computing | 2023 |
@@ -18,6 +19,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Deep neural network compression by Tucker decomposition with nonlinear response](https://www.sciencedirect.com/science/article/pii/S0950705122000326) || Knowledge-Based Systems | 2022 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) |[![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) || CVPR | 2021 |
+| [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) || JSTSP | 2021 |
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) |[![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
 | [Learning Low-rank Deep Neural Networks via Singular Vector Orthogonality Regularization and Singular Value Sparsification](https://arxiv.org/abs/2004.09031) |[![GitHub Repo stars](https://img.shields.io/github/stars/yanghr/SVD_Prune_EDLCV)](https://github.com/yanghr/SVD_Prune_EDLCV)| CVPRW | 2020 |
 | [ADA-Tucker: Compressing deep neural networks via adaptive dimension adjustment tucker decomposition](https://www.sciencedirect.com/science/article/pii/S0893608018303010) || Neural Networks | 2019 |
