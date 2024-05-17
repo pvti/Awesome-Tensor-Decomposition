@@ -24,6 +24,8 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Learning Low-rank Deep Neural Networks via Singular Vector Orthogonality Regularization and Singular Value Sparsification](https://arxiv.org/abs/2004.09031) |[![GitHub Repo stars](https://img.shields.io/github/stars/yanghr/SVD_Prune_EDLCV)](https://github.com/yanghr/SVD_Prune_EDLCV)| CVPRW | 2020 |
 | [ADA-Tucker: Compressing deep neural networks via adaptive dimension adjustment tucker decomposition](https://www.sciencedirect.com/science/article/pii/S0893608018303010) || Neural Networks | 2019 |
 | [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/abs/1908.08932) |[![GitHub Repo stars](https://img.shields.io/github/stars/ofsoundof/learning_filter_basis)](https://github.com/ofsoundof/learning_filter_basis)| ICCV | 2019 |
+| [Compressing Deep Models using Multi Tensor Train Decomposition](https://ieeexplore.ieee.org/document/9074612) || ICCAIS | 2019 |
+| [Compressing Fully Connected Layers using Kronecker Tensor Decomposition](https://ieeexplore.ieee.org/document/8962432) || ICCSNT | 2019 |
 | [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) || TPAMI | 2016 |
 | [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) || ICLR | 2016 |
 | [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553) || ICLR | 2015 |
