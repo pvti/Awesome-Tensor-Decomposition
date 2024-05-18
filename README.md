@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Code      | Venue      | Year |
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
+| [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | | Arxiv | 2024 |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | | TNNLS | 2024 |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) |[![GitHub Repo stars](https://img.shields.io/github/stars/pvtien96/NORTON)](https://github.com/pvtien96/NORTON)| TNNLS | 2024 |
 | [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) |[![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-AdversarialNAS)](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)| ICASSP | 2024 |
