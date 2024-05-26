@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Code      | Venue      | Year |
 | ------------------------------------------------------------ | ----------| ---------- | ---- |
+| [FLoRA: Low-Rank Core Space for N-dimension](https://arxiv.org/abs/2405.14739) |[![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/FLoRA)](https://github.com/SJTU-DeepVisionLab/FLoRA)| Arxiv | 2024 |
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) |[![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Arxiv | 2024 |
 | [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | | Arxiv | 2024 |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | | TNNLS | 2024 |
