@@ -23,6 +23,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Towards Compact Neural Networks via End-to-End Training: A Bayesian Tensor Approach with Automatic Rank Determination](https://arxiv.org/abs/2010.08689) |[![GitHub Repo stars](https://img.shields.io/github/stars/colehawkins/bayesian-tensor-rank-determination)](https://github.com/colehawkins/bayesian-tensor-rank-determination)| SIMODS | 2022 |
 | [Deep neural network compression by Tucker decomposition with nonlinear response](https://www.sciencedirect.com/science/article/pii/S0950705122000326) || Knowledge-Based Systems | 2022 |
 | [Nested compression of convolutional neural networks with Tucker-2 decomposition](https://ieeexplore.ieee.org/abstract/document/9892959) || IJCNN | 2022 |
+| [A Design Space Exploration Methodology for Enabling Tensor Train Decomposition in Edge Devices](https://link.springer.com/chapter/10.1007/978-3-031-15074-6_11) || SAMOS | 2022 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) |[![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) || CVPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) || JSTSP | 2021 |
