@@ -17,6 +17,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) | Neural Processing Letters | 2024 |
 | [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) | TNNLS | 2023 |
 | [How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?](https://arxiv.org/abs/2305.05318) | ICLR | 2023 |
+| [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) | AAAI | 2023 |
 | [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/ht2)](https://github.com/mateuszgabor/ht2)| Applied Soft Computing | 2023 |
 | [Tensor shape search for efficient compression of tensorized data and neural networks](https://www.sciencedirect.com/science/article/pii/S1568494623010050) | Applied Soft Computing | 2023 |
 | [An effective low-rank compression with a joint rank selection followed by a compression-friendly training](https://www.sciencedirect.com/science/article/pii/S0893608023000242) | Neural Networks | 2023 |
