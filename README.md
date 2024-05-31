@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
 | [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | International Journal of Parallel Programming | 2024 |
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) | Arxiv | 2024 |
 | [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
