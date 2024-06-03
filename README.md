@@ -39,6 +39,10 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/abs/1908.08932) [![GitHub Repo stars](https://img.shields.io/github/stars/ofsoundof/learning_filter_basis)](https://github.com/ofsoundof/learning_filter_basis)| ICCV | 2019 |
 | [Compressing Deep Models using Multi Tensor Train Decomposition](https://ieeexplore.ieee.org/document/9074612) | ICCAIS | 2019 |
 | [Compressing Fully Connected Layers using Kronecker Tensor Decomposition](https://ieeexplore.ieee.org/document/8962432) | ICCSNT | 2019 |
+| [Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=r1xFE3Rqt7) [![GitHub Repo stars](https://img.shields.io/github/stars/zuenko/ALRF)](https://github.com/zuenko/ALRF)| OpenReview | 2019 |
+| [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://arxiv.org/abs/1807.11254) | ECCV | 2018 |
+| [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_On_Compressing_Deep_CVPR_2017_paper.pdf) | CVPR | 2017 |
+| [Factorized Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w10/Wang_Factorized_Convolutional_Neural_ICCV_2017_paper.pdf) | ICCVW | 2017 |
 | [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) | TPAMI | 2016 |
 | [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) | ICLR | 2016 |
 | [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553) | ICLR | 2015 |
