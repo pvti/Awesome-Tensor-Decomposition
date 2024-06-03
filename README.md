@@ -31,6 +31,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Nested compression of convolutional neural networks with Tucker-2 decomposition](https://ieeexplore.ieee.org/abstract/document/9892959) | IJCNN | 2022 |
 | [A Design Space Exploration Methodology for Enabling Tensor Train Decomposition in Edge Devices](https://link.springer.com/chapter/10.1007/978-3-031-15074-6_11) | SAMOS | 2022 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) [![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
+| [Deeply Shared Filter Bases for Parameter-Efficient Convolutional Neural Networks](https://arxiv.org/abs/2006.05066) [![GitHub Repo stars](https://img.shields.io/github/stars/ssregibility/Net_RL2)](https://github.com/ssregibility/Net_RL2)| NeurIPS | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) [![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
