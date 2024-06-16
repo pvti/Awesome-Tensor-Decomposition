@@ -68,6 +68,7 @@ A curated list of tensor decomposition resources for *network compression*.
 
 ## :computer: Repositories
 - [TensorLy](https://github.com/tensorly/tensorly) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/tensorly)](https://github.com/tensorly/tensorly)
+- [TensorLy-Torch](https://tensorly.org/torch/dev/) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/torch)](https://github.com/tensorly/torch)
 - [PyTorch Tensor Decompositions](https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning)[![GitHub Repo stars](https://img.shields.io/github/stars/jacobgil/pytorch-tensor-decompositions)](https://github.com/jacobgil/pytorch-tensor-decompositions)
 - [CNN_compression_with_Tensor_Decomposition](https://github.com/K0EKJE/CNN_compression_with_Tensor_Decomposition)[![GitHub Repo stars](https://img.shields.io/github/stars/K0EKJE/CNN_compression_with_Tensor_Decomposition)](https://github.com/K0EKJE/CNN_compression_with_Tensor_Decomposition)
 - [Tensor methods in Python with TensorLy](https://github.com/JeanKossaifi/tensorly-notebooks)[![GitHub Repo stars](https://img.shields.io/github/stars/JeanKossaifi/tensorly-notebooks)](https://github.com/JeanKossaifi/tensorly-notebooks)
