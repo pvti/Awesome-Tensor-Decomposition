@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
 | [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
 | [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | International Journal of Parallel Programming | 2024 |
