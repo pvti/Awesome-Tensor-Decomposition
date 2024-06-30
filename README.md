@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
 | [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)| ISCA | 2024 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
