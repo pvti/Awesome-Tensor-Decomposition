@@ -10,7 +10,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
 | [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
-| [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | International Journal of Parallel Programming | 2024 |
+| [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | IJPP | 2024 |
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) | Arxiv | 2024 |
 | [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
 | [CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization](https://arxiv.org/abs/2405.14377) | Arxiv | 2024 |
@@ -18,7 +18,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Arxiv | 2024 |
 | [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | Arxiv | 2024 |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | TNNLS | 2024 |
-| [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) [![GitHub Repo stars](https://img.shields.io/github/stars/pvtien96/NORTON)](https://github.com/pvtien96/NORTON)| TNNLS | 2024 |
+| [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) [![GitHub Repo stars](https://img.shields.io/github/stars/pvti/NORTON)](https://github.com/pvti/NORTON)| TNNLS | 2024 |
 | [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) [![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-AdversarialNAS)](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)| ICASSP | 2024 |
 | [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) | Neural Processing Letters | 2024 |
 | [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) | TNNLS | 2023 |
@@ -79,3 +79,4 @@ A curated list of tensor decomposition resources for *network compression*.
 - [CNN_compression_with_Tensor_Decomposition](https://github.com/K0EKJE/CNN_compression_with_Tensor_Decomposition)[![GitHub Repo stars](https://img.shields.io/github/stars/K0EKJE/CNN_compression_with_Tensor_Decomposition)](https://github.com/K0EKJE/CNN_compression_with_Tensor_Decomposition)
 - [Tensor methods in Python with TensorLy](https://github.com/JeanKossaifi/tensorly-notebooks)[![GitHub Repo stars](https://img.shields.io/github/stars/JeanKossaifi/tensorly-notebooks)](https://github.com/JeanKossaifi/tensorly-notebooks)
 - [TensorKrowch: Smooth integration of tensor networks in machine learning](https://arxiv.org/abs/2306.08595)[![GitHub Repo stars](https://img.shields.io/github/stars/joserapa98/tensorkrowch)](https://github.com/joserapa98/tensorkrowch)
+- [Tensor Learning Team](https://qibinzhao.github.io/)
