@@ -26,6 +26,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition](https://arxiv.org/abs/2306.05021) [![GitHub Repo stars](https://img.shields.io/github/stars/Yu-Zhewen/Mixed-TD)](https://github.com/Yu-Zhewen/Mixed-TD)| FPL | 2023 |
 | [SVD-NAS: Coupling Low-Rank Approximation and Neural Architecture Search](https://arxiv.org/abs/2208.10404) [![GitHub Repo stars](https://img.shields.io/github/stars/Yu-Zhewen/SVD-NAS)](https://github.com/Yu-Zhewen/SVD-NAS)| WACV | 2023 |
 | [How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?](https://arxiv.org/abs/2305.05318) | ICLR | 2023 |
+| [Tensor shape search for efficient compression of tensorized data and neural networks](https://www.sciencedirect.com/science/article/pii/S1568494623010050) | Applied Soft Computing | 2023 |
 | [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) | AAAI | 2023 |
 | [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/ht2)](https://github.com/mateuszgabor/ht2)| Applied Soft Computing | 2023 |
 | [Tensor shape search for efficient compression of tensorized data and neural networks](https://www.sciencedirect.com/science/article/pii/S1568494623010050) | Applied Soft Computing | 2023 |
