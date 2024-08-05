@@ -14,6 +14,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) | Arxiv | 2024 |
 | [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
 | [CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization](https://arxiv.org/abs/2405.14377) | Arxiv | 2024 |
+| [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](https://arxiv.org/abs/2311.03912) [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/FLORA)](https://github.com/shadowpa0327/FLORA)| WACV | 2024 |
 | [FLoRA: Low-Rank Core Space for N-dimension](https://arxiv.org/abs/2405.14739) [![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/FLoRA)](https://github.com/SJTU-DeepVisionLab/FLoRA)| Arxiv | 2024 |
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Arxiv | 2024 |
 | [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | Arxiv | 2024 |
