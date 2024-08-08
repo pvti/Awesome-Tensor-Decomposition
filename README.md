@@ -50,6 +50,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Holistic CNN Compression via Low-Rank Decomposition with Knowledge Transfer](https://ieeexplore.ieee.org/document/8478366) [![GitHub Repo stars](https://img.shields.io/github/stars/ShaohuiLin/LRDKT)](https://github.com/ShaohuiLin/LRDKT)| TPAMI | 2019 |
 | [ADA-Tucker: Compressing deep neural networks via adaptive dimension adjustment tucker decomposition](https://www.sciencedirect.com/science/article/pii/S0893608018303010) | Neural Networks | 2019 |
 | [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/abs/1908.08932) [![GitHub Repo stars](https://img.shields.io/github/stars/ofsoundof/learning_filter_basis)](https://github.com/ofsoundof/learning_filter_basis)| ICCV | 2019 |
+| [Automated Multi-Stage Compression of Neural Networks](https://ieeexplore.ieee.org/document/9022596) [![GitHub Repo stars](https://img.shields.io/github/stars/musco-ai/musco-pytorch)](https://github.com/musco-ai/musco-pytorch)| ICCV | 2019 |
 | [Compressing Deep Models using Multi Tensor Train Decomposition](https://ieeexplore.ieee.org/document/9074612) | ICCAIS | 2019 |
 | [Compressing Fully Connected Layers using Kronecker Tensor Decomposition](https://ieeexplore.ieee.org/document/8962432) | ICCSNT | 2019 |
 | [Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=r1xFE3Rqt7) [![GitHub Repo stars](https://img.shields.io/github/stars/zuenko/ALRF)](https://github.com/zuenko/ALRF)| OpenReview | 2019 |
