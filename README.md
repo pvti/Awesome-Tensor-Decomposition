@@ -4,6 +4,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :clipboard: Research Papers
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
 | [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)| ISCA | 2024 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
@@ -35,6 +36,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization](https://arxiv.org/abs/2309.03824) | Arxiv | 2023 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) | CVPR | 2022 |
 | [Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations](https://arxiv.org/abs/2205.13571) [![GitHub Repo stars](https://img.shields.io/github/stars/COMPiLELab/DLRT-Net)](https://github.com/COMPiLELab/DLRT-Net)| NeurIPS | 2022 |
+| [BATUDE: Budget-Aware Neural Network Compression Based on Tucker Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/20869) | AAAI | 2022 |
 | [Convolutional Neural Network Compression through Generalized Kronecker Product Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/19958) | AAAI | 2022 |
 | [Towards Compact Neural Networks via End-to-End Training: A Bayesian Tensor Approach with Automatic Rank Determination](https://arxiv.org/abs/2010.08689) [![GitHub Repo stars](https://img.shields.io/github/stars/colehawkins/bayesian-tensor-rank-determination)](https://github.com/colehawkins/bayesian-tensor-rank-determination)| SIMODS | 2022 |
 | [Deep neural network compression by Tucker decomposition with nonlinear response](https://www.sciencedirect.com/science/article/pii/S0950705122000326) | Knowledge-Based Systems | 2022 |
