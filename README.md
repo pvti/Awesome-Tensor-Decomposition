@@ -34,6 +34,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [An effective low-rank compression with a joint rank selection followed by a compression-friendly training](https://www.sciencedirect.com/science/article/pii/S0893608023000242) | Neural Networks | 2023 |
 | [Joint matrix decomposition for deep convolutional neural networks compression](https://www.sciencedirect.com/science/article/pii/S0925231222012887) | Neurocomputing | 2023 |
 | [Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization](https://arxiv.org/abs/2309.03824) | Arxiv | 2023 |
+| [Compression of Deep Neural Networks based on quantized tensor decomposition to implement on reconfigurable hardware platforms](https://www.sciencedirect.com/science/article/pii/S089360802200065X) | Neural Networks | 2022 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) | CVPR | 2022 |
 | [Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations](https://arxiv.org/abs/2205.13571) [![GitHub Repo stars](https://img.shields.io/github/stars/COMPiLELab/DLRT-Net)](https://github.com/COMPiLELab/DLRT-Net)| NeurIPS | 2022 |
 | [BATUDE: Budget-Aware Neural Network Compression Based on Tucker Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/20869) | AAAI | 2022 |
