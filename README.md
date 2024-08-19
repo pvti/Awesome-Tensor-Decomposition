@@ -63,6 +63,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_On_Compressing_Deep_CVPR_2017_paper.pdf) | CVPR | 2017 |
 | [Factorized Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w10/Wang_Factorized_Convolutional_Neural_ICCV_2017_paper.pdf) | ICCVW | 2017 |
 | [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) | TPAMI | 2016 |
+| [Convolutional Neural Networks With Low-rank Regularization](https://arxiv.org/abs/1511.06067) [![GitHub Repo stars](https://img.shields.io/github/stars/chengtaipu/lowrankcnn)](https://github.com/chengtaipu/lowrankcnn)| ICLR | 2016 |
 | [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) | ICLR | 2016 |
 | [Accelerating Convolutional Neural Networks for Mobile Applications](https://doi.org/10.1145/2964284.2967280) | MM | 2016 |
 | [Ultimate tensorization: compressing convolutional and FC layers alike](https://arxiv.org/abs/1611.03214) [![GitHub Repo stars](https://img.shields.io/github/stars/timgaripov/TensorNet-TF)](https://github.com/timgaripov/TensorNet-TF) | NIPSW | 2016 |
