@@ -66,6 +66,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=r1xFE3Rqt7) [![GitHub Repo stars](https://img.shields.io/github/stars/zuenko/ALRF)](https://github.com/zuenko/ALRF)| OpenReview | 2019 |
 | [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](https://arxiv.org/abs/1712.05134) | CVPR | 2018 |
 | [Wide Compression: Tensor Ring Nets](https://arxiv.org/abs/1802.09052) | CVPR | 2018 |
+| [Self-supervised Knowledge Distillation Using Singular Value Decomposition](https://arxiv.org/abs/1807.06819) [![GitHub Repo stars](https://img.shields.io/github/stars/sseung0703/SSKD_SVD)](https://github.com/sseung0703/SSKD_SVD)| ECCV | 2018 |
 | [Extreme Network Compression via Filter Group Approximation](https://arxiv.org/abs/1807.11254) | ECCV | 2018 |
 | [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_On_Compressing_Deep_CVPR_2017_paper.pdf) | CVPR | 2017 |
 | [Factorized Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w10/Wang_Factorized_Convolutional_Neural_ICCV_2017_paper.pdf) | ICCVW | 2017 |
