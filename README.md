@@ -43,6 +43,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Compression of Deep Neural Networks based on quantized tensor decomposition to implement on reconfigurable hardware platforms](https://www.sciencedirect.com/science/article/pii/S089360802200065X) | Neural Networks | 2022 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) | CVPR | 2022 |
 | [Towards Practical Control of Singular Values of Convolutional Layers](https://arxiv.org/abs/2211.13771) [![GitHub Repo stars](https://img.shields.io/github/stars/WhiteTeaDragon/practical_svd_conv)](https://github.com/WhiteTeaDragon/practical_svd_conv)| NeurIPS | 2022 |
+| [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations](https://arxiv.org/abs/2205.13571) [![GitHub Repo stars](https://img.shields.io/github/stars/COMPiLELab/DLRT-Net)](https://github.com/COMPiLELab/DLRT-Net)| NeurIPS | 2022 |
 | [BATUDE: Budget-Aware Neural Network Compression Based on Tucker Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/20869) | AAAI | 2022 |
 | [Convolutional Neural Network Compression through Generalized Kronecker Product Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/19958) | AAAI | 2022 |
