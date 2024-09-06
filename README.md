@@ -58,6 +58,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Deeply Shared Filter Bases for Parameter-Efficient Convolutional Neural Networks](https://arxiv.org/abs/2006.05066) [![GitHub Repo stars](https://img.shields.io/github/stars/ssregibility/Net_RL2)](https://github.com/ssregibility/Net_RL2)| NeurIPS | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
+| [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
 | [Block-term tensor neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020302045)| Neural Networks | 2020 |
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) [![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
 | [Learning Low-rank Deep Neural Networks via Singular Vector Orthogonality Regularization and Singular Value Sparsification](https://arxiv.org/abs/2004.09031) [![GitHub Repo stars](https://img.shields.io/github/stars/yanghr/SVD_Prune_EDLCV)](https://github.com/yanghr/SVD_Prune_EDLCV)| CVPRW | 2020 |
