@@ -56,6 +56,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [A Design Space Exploration Methodology for Enabling Tensor Train Decomposition in Edge Devices](https://link.springer.com/chapter/10.1007/978-3-031-15074-6_11) | SAMOS | 2022 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) [![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
 | [Deeply Shared Filter Bases for Parameter-Efficient Convolutional Neural Networks](https://arxiv.org/abs/2006.05066) [![GitHub Repo stars](https://img.shields.io/github/stars/ssregibility/Net_RL2)](https://github.com/ssregibility/Net_RL2)| NeurIPS | 2021 |
+| [Parameter Efficient Dynamic Convolution via Tensor Decomposition](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1631.html) [![GitHub Repo stars](https://img.shields.io/github/stars/zejiangh/PEDConv)](https://github.com/zejiangh/PEDConv)| NeurIPS | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
