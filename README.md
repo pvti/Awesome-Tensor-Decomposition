@@ -42,6 +42,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization](https://arxiv.org/abs/2309.03824) | Arxiv | 2023 |
 | [Knowledge Transfer via Decomposing Essential Information in Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9222552) [![GitHub Repo stars](https://img.shields.io/github/stars/sseung0703/KD_methods_with_TF)](https://github.com/sseung0703/KD_methods_with_TF)| TNNLS | 2022 |
 | [Compression of Deep Neural Networks based on quantized tensor decomposition to implement on reconfigurable hardware platforms](https://www.sciencedirect.com/science/article/pii/S089360802200065X) | Neural Networks | 2022 |
+| [Teacher–student knowledge distillation based on decomposed deep feature representation for intelligent mobile applications](https://doi.org/10.1016/j.eswa.2022.117474) | Expert Systems with Applications | 2022 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) | CVPR | 2022 |
 | [Towards Practical Control of Singular Values of Convolutional Layers](https://arxiv.org/abs/2211.13771) [![GitHub Repo stars](https://img.shields.io/github/stars/WhiteTeaDragon/practical_svd_conv)](https://github.com/WhiteTeaDragon/practical_svd_conv)| NeurIPS | 2022 |
 | [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
