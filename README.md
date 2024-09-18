@@ -94,6 +94,7 @@ A curated list of tensor decomposition resources for *network compression*.
 ## :books: Surveys
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Low Rank Optimization for Efficient Deep Learning: Making a Balance Between Compact Architecture And Fast Training](https://ieeexplore.ieee.org/document/10355073) | Journal of Systems Engineering and Electronics | 2024 |
 | [Tensor Decomposition for Model Reduction in Neural Networks: A Review](https://arxiv.org/abs/2304.13539) | IEEE Circuits and Systems Magazine | 2023 |
 | [Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training](https://arxiv.org/abs/2303.13635)| Arxiv | 2023 |
 | [Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](https://arxiv.org/abs/2302.09019) [![GitHub Repo stars](https://img.shields.io/github/stars/tnbar/awesome-tensorial-neural-networks)](https://github.com/tnbar/awesome-tensorial-neural-networks)| Arxiv | 2023 |
