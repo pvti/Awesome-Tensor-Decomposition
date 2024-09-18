@@ -63,6 +63,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
 | [Block-term tensor neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020302045)| Neural Networks | 2020 |
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) [![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
+| [Few Sample Knowledge Distillation for Efficient Network Compression](https://arxiv.org/abs/1812.01839) [![GitHub Repo stars](https://img.shields.io/github/stars/LTH14/FSKD)](https://github.com/LTH14/FSKD)| CVPR | 2020 |
 | [Learning Low-rank Deep Neural Networks via Singular Vector Orthogonality Regularization and Singular Value Sparsification](https://arxiv.org/abs/2004.09031) [![GitHub Repo stars](https://img.shields.io/github/stars/yanghr/SVD_Prune_EDLCV)](https://github.com/yanghr/SVD_Prune_EDLCV)| CVPRW | 2020 |
 | [PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133) [![GitHub Repo stars](https://img.shields.io/github/stars/timlee0212/PENNI)](https://github.com/timlee0212/PENNI)| ICML | 2020 |
 | [A Novel Rank Selection Scheme in Tensor Ring Decomposition Based on Reinforcement Learning for Deep Neural Networks](https://ieeexplore.ieee.org/document/9053292)| ICASSP | 2020 |
