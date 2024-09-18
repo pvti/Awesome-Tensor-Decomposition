@@ -79,6 +79,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Wide Compression: Tensor Ring Nets](https://arxiv.org/abs/1802.09052) | CVPR | 2018 |
 | [Self-supervised Knowledge Distillation Using Singular Value Decomposition](https://arxiv.org/abs/1807.06819) [![GitHub Repo stars](https://img.shields.io/github/stars/sseung0703/SSKD_SVD)](https://github.com/sseung0703/SSKD_SVD)| ECCV | 2018 |
 | [Extreme Network Compression via Filter Group Approximation](https://arxiv.org/abs/1807.11254) | ECCV | 2018 |
+| [Network Decoupling: From Regular to Depthwise Separable Convolutions](https://arxiv.org/abs/1808.05517) [![GitHub Repo stars](https://img.shields.io/github/stars/JianboGuo/network-decoupling)](https://github.com/JianboGuo/network-decoupling)| BMVC | 2018 |
 | [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_On_Compressing_Deep_CVPR_2017_paper.pdf) | CVPR | 2017 |
 | [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/abs/1703.09746) [![GitHub Repo stars](https://img.shields.io/github/stars/wenwei202/caffe)](https://github.com/wenwei202/caffe)| ICCV | 2017 |
 | [Factorized Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w10/Wang_Factorized_Convolutional_Neural_ICCV_2017_paper.pdf) | ICCVW | 2017 |
