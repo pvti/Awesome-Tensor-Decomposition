@@ -1,42 +1,47 @@
 # [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Tensor Decomposition 
-A curated list of tensor decomposition resources for *network compression*.
+A curated list of tensor decomposition resources for *model compression*.
 
 ## :clipboard: Research Papers
+### Transformer & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [PELA: Learning Parameter-Efficient Models with Low-Rank Approximation](https://arxiv.org/abs/2310.10700) [![GitHub Repo stars](https://img.shields.io/github/stars/guoyang9/PELA)](https://github.com/guoyang9/PELA)| CVPR | 2024 |
 | [Adaptive Rank Selections for Low-Rank Approximation of Language Models](https://aclanthology.org/2024.naacl-long.13/)| ACL | 2024 |
+| [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)  [![GitHub Repo stars](https://img.shields.io/github/stars/snu-comparch/Tender)](https://github.com/snu-comparch/Tender)| ISCA | 2024 |
+| [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
+| [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
+| [CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization](https://arxiv.org/abs/2405.14377) | Arxiv | 2024 |
+| [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](https://arxiv.org/abs/2311.03912) [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/FLORA)](https://github.com/shadowpa0327/FLORA)| WACV | 2024 |
+| [FLoRA: Low-Rank Core Space for N-dimension](https://arxiv.org/abs/2405.14739) [![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/FLoRA)](https://github.com/SJTU-DeepVisionLab/FLoRA)| Arxiv | 2024 |
+| [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) [![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-AdversarialNAS)](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)| ICASSP | 2024 |
+| [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) [![GitHub Repo stars](https://img.shields.io/github/stars/JieShibo/PETL-ViT)](https://github.com/JieShibo/PETL-ViT)| AAAI | 2023 |
+| [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
+| [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
+
+### CNN & RNN
+| Title                                                        | Venue      | Year |
+| ------------------------------------------------------------ | ---------- | ---- |
 | [Learning Low-Rank Tensor Cores with Probabilistic l0-Regularized Rank Selection for Model Compression](https://www.ijcai.org/proceedings/2024/418) [![GitHub Repo stars](https://img.shields.io/github/stars/ctxGou/Tensor-L0-Compression)](https://github.com/ctxGou/Tensor-L0-Compression)| IJCAI | 2024 |
 | [Compact Model Training by Low-Rank Projection With Energy Transfer](https://ieeexplore.ieee.org/document/10551437) [![GitHub Repo stars](https://img.shields.io/github/stars/BZQLin/LRPET)](https://github.com/BZQLin/LRPET)| TNNLS | 2024 |
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/document/10689618)| TNNLS | 2024 |
 | [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
-| [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)  [![GitHub Repo stars](https://img.shields.io/github/stars/snu-comparch/Tender)](https://github.com/snu-comparch/Tender)| ISCA | 2024 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
-| [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
 | [A Practical Approach for Employing Tensor Train Decomposition in Edge Devices](https://link.springer.com/article/10.1007/s10766-024-00762-3) | IJPP | 2024 |
 | [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) | Arxiv | 2024 |
-| [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
-| [CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive Tensor Optimization](https://arxiv.org/abs/2405.14377) | Arxiv | 2024 |
-| [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](https://arxiv.org/abs/2311.03912) [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/FLORA)](https://github.com/shadowpa0327/FLORA)| WACV | 2024 |
-| [FLoRA: Low-Rank Core Space for N-dimension](https://arxiv.org/abs/2405.14739) [![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/FLoRA)](https://github.com/SJTU-DeepVisionLab/FLoRA)| Arxiv | 2024 |
 | [Reduced storage direct tensor ring decomposition for convolutional neural networks compression](https://arxiv.org/abs/2405.10802) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/rsdtr_compression)](https://github.com/mateuszgabor/rsdtr_compression)| Arxiv | 2024 |
 | [Federated Learning Using Coupled Tensor Train Decomposition](https://arxiv.org/abs/2403.02898) | Arxiv | 2024 |
 | [Neural Network Compression Based on Tensor Ring Decomposition](https://ieeexplore.ieee.org/abstract/document/10510501) | TNNLS | 2024 |
 | [Enhanced network compression through tensor decompositions and pruning](https://hal.science/hal-04475167v1) [![GitHub Repo stars](https://img.shields.io/github/stars/pvti/NORTON)](https://github.com/pvti/NORTON)| TNNLS | 2024 |
-| [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) [![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-AdversarialNAS)](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)| ICASSP | 2024 |
 | [Deep Convolutional Neural Network Compression Method: Tensor Ring Decomposition with Variational Bayesian Approach](https://link.springer.com/article/10.1007/s11063-024-11465-8) | Neural Processing Letters | 2024 |
-| [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) [![GitHub Repo stars](https://img.shields.io/github/stars/JieShibo/PETL-ViT)](https://github.com/JieShibo/PETL-ViT)| AAAI | 2023 |
-| [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
 | [Deep Learning Model Compression With Rank Reduction in Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/10321737) | TNNLS | 2023 |
 | [MARS: Masked Automatic Ranks Selection in Tensor Decompositions](https://arxiv.org/abs/2006.10859) [![GitHub Repo stars](https://img.shields.io/github/stars/MaxBourdon/mars)](https://github.com/MaxBourdon/mars)| AISTATS | 2023 |
 | [Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition](https://arxiv.org/abs/2306.05021) [![GitHub Repo stars](https://img.shields.io/github/stars/Yu-Zhewen/Mixed-TD)](https://github.com/Yu-Zhewen/Mixed-TD)| FPL | 2023 |
 | [SVD-NAS: Coupling Low-Rank Approximation and Neural Architecture Search](https://arxiv.org/abs/2208.10404) [![GitHub Repo stars](https://img.shields.io/github/stars/Yu-Zhewen/SVD-NAS)](https://github.com/Yu-Zhewen/SVD-NAS)| WACV | 2023 |
 | [How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?](https://arxiv.org/abs/2305.05318) | ICLR | 2023 |
 | [Tensor shape search for efficient compression of tensorized data and neural networks](https://www.sciencedirect.com/science/article/pii/S1568494623010050) | Applied Soft Computing | 2023 |
-| [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) | AAAI | 2023 |
 | [Compressing convolutional neural networks with hierarchical Tucker-2 decomposition](https://www.sciencedirect.com/science/article/pii/S156849462200905X) [![GitHub Repo stars](https://img.shields.io/github/stars/mateuszgabor/ht2)](https://github.com/mateuszgabor/ht2)| Applied Soft Computing | 2023 |
 | [Tensor shape search for efficient compression of tensorized data and neural networks](https://www.sciencedirect.com/science/article/pii/S1568494623010050) | Applied Soft Computing | 2023 |
 | [An effective low-rank compression with a joint rank selection followed by a compression-friendly training](https://www.sciencedirect.com/science/article/pii/S0893608023000242) | Neural Networks | 2023 |
@@ -47,7 +52,6 @@ A curated list of tensor decomposition resources for *network compression*.
 | [Teacher–student knowledge distillation based on decomposed deep feature representation for intelligent mobile applications](https://doi.org/10.1016/j.eswa.2022.117474) | Expert Systems with Applications | 2022 |
 | [HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9879408) | CVPR | 2022 |
 | [Towards Practical Control of Singular Values of Convolutional Layers](https://arxiv.org/abs/2211.13771) [![GitHub Repo stars](https://img.shields.io/github/stars/WhiteTeaDragon/practical_svd_conv)](https://github.com/WhiteTeaDragon/practical_svd_conv)| NeurIPS | 2022 |
-| [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations](https://arxiv.org/abs/2205.13571) [![GitHub Repo stars](https://img.shields.io/github/stars/COMPiLELab/DLRT-Net)](https://github.com/COMPiLELab/DLRT-Net)| NeurIPS | 2022 |
 | [BATUDE: Budget-Aware Neural Network Compression Based on Tucker Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/20869) | AAAI | 2022 |
 | [Convolutional Neural Network Compression through Generalized Kronecker Product Decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/19958) | AAAI | 2022 |
