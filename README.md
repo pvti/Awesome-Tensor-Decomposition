@@ -11,7 +11,7 @@ A curated list of tensor decomposition resources for *network compression*.
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/document/10689618)| TNNLS | 2024 |
 | [Co-Exploring Structured Sparsification and Low-Rank Tensor Decomposition for Compact DNNs](https://ieeexplore.ieee.org/document/10574865)| TNNLS | 2024 |
-| [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)| ISCA | 2024 |
+| [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)  [![GitHub Repo stars](https://img.shields.io/github/stars/snu-comparch/Tender)](https://github.com/snu-comparch/Tender)| ISCA | 2024 |
 | [Coarse-To-Fine Tensor Trains for Compact Visual Representations](https://arxiv.org/abs/2406.04332) [![GitHub Repo stars](https://img.shields.io/github/stars/sebulo/PuTT)](https://github.com/sebulo/PuTT)| ICML | 2024 |
 | [Position: Tensor Networks are a Valuable Asset for Green AI](https://openreview.net/pdf?id=mcg6jppkwb)| ICML | 2024 |
 | [Compression-aware Training of Neural Networks using Frank-Wolfe](https://arxiv.org/abs/2205.11921) [![GitHub Repo stars](https://img.shields.io/github/stars/ZIB-IOL/compression-aware-SFW)](https://github.com/ZIB-IOL/compression-aware-SFW)| Arxiv | 2024 |
