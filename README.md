@@ -26,6 +26,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN & RNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [How to Train Your Unstable Looped Tensor Network](https://ieeexplore.ieee.org/document/10695808)| JSTSP | 2024 |
 | [Learning Low-Rank Tensor Cores with Probabilistic l0-Regularized Rank Selection for Model Compression](https://www.ijcai.org/proceedings/2024/418) [![GitHub Repo stars](https://img.shields.io/github/stars/ctxGou/Tensor-L0-Compression)](https://github.com/ctxGou/Tensor-L0-Compression)| IJCAI | 2024 |
 | [Compact Model Training by Low-Rank Projection With Energy Transfer](https://ieeexplore.ieee.org/document/10551437) [![GitHub Repo stars](https://img.shields.io/github/stars/BZQLin/LRPET)](https://github.com/BZQLin/LRPET)| TNNLS | 2024 |
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
