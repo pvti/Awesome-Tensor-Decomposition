@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558) [![GitHub Repo stars](https://img.shields.io/github/stars/pratyushasharma/laser)](https://github.com/pratyushasharma/laser)| ICLR | 2024 |
 | [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) | Arxiv | 2024 |
 | [SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression](https://arxiv.org/abs/2403.07378) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| Arxiv | 2024 |
 | [ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models](https://arxiv.org/abs/2312.05821) [![GitHub Repo stars](https://img.shields.io/github/stars/hahnyuan/ASVD4LLM)](https://github.com/hahnyuan/ASVD4LLM)| Arxiv | 2024 |
