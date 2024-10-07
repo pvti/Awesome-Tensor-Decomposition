@@ -25,6 +25,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
 | [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Language model compression with weighted low-rank factorization](https://arxiv.org/abs/2207.00112) [![GitHub Repo stars](https://img.shields.io/github/stars/RahulSChand/Weighted-low-rank-factorization-Pytorch)](https://github.com/RahulSChand/Weighted-low-rank-factorization-Pytorch)| ICLR | 2022 |
+| [A Tensorized Transformer for Language Modeling](https://arxiv.org/abs/1906.09777) [![GitHub Repo stars](https://img.shields.io/github/stars/szhangtju/The-compression-of-Transformer)](https://github.com/szhangtju/The-compression-of-Transformer)| NeurIPS | 2019 |
 
 ### CNN & RNN
 | Title                                                        | Venue      | Year |
