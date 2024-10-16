@@ -126,6 +126,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [High-performance tensor decompositions for compressing and accelerating deep neural networks](https://www.sciencedirect.com/science/article/abs/pii/B9780128244470000157) [![GitHub Repo stars](https://img.shields.io/github/stars/YangletLiu/Tensor_Layer_for_Deep_Neural_Network_Compression)](https://github.com/YangletLiu/Tensor_Layer_for_Deep_Neural_Network_Compression)| Tensors for Data Processing | 2022 |
 | [Tensor Methods in Computer Vision and Deep Learning](https://arxiv.org/abs/2107.03436) | Proceedings of the IEEE | 2021 |
 | [Tensor Decomposition for Signal Processing and Machine Learning](https://ieeexplore.ieee.org/abstract/document/7891546) | IEEE Transactions on Signal Processing | 2017 |
+| [A literature survey of low-rank tensor approximation techniques](https://arxiv.org/abs/1302.7121) | GAMM-Mitteilungen | 2013 |
 | [The Higher-Order Singular Value Decomposition: Theory and an Application](https://ieeexplore.ieee.org/document/5447070) | IEEE Signal Processing Magazine | 2010 |
 | [Tensor Decompositions and Applications](https://epubs.siam.org/doi/10.1137/07070111X) | SIAM Review | 2009 |
 
