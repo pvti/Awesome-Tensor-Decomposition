@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Dual-grained Lightweight Strategy](https://ieeexplore.ieee.org/document/10713325) | TPAMI | 2024 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](https://arxiv.org/abs/2410.03040) | Arxiv | 2024 |
 | [From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients](https://arxiv.org/abs/2407.11239) [![GitHub Repo stars](https://img.shields.io/github/stars/VITA-Group/WeLore)](https://github.com/VITA-Group/WeLore)| Arxiv | 2024 |
 | [The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558) [![GitHub Repo stars](https://img.shields.io/github/stars/pratyushasharma/laser)](https://github.com/pratyushasharma/laser)| ICLR | 2024 |
