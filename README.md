@@ -107,6 +107,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [On Compressing Deep Models by Low Rank and Sparse Decomposition](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_On_Compressing_Deep_CVPR_2017_paper.pdf) | CVPR | 2017 |
 | [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/abs/1703.09746) [![GitHub Repo stars](https://img.shields.io/github/stars/wenwei202/caffe)](https://github.com/wenwei202/caffe)| ICCV | 2017 |
 | [Factorized Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w10/Wang_Factorized_Convolutional_Neural_ICCV_2017_paper.pdf) | ICCVW | 2017 |
+| [Tensor Regression Networks with various Low-Rank Tensor Approximations](https://arxiv.org/abs/1712.09520) [![GitHub Repo stars](https://img.shields.io/github/stars/xwcao/LowRankTRN)](https://github.com/xwcao/LowRankTRN)| Arxiv | 2017 |
 | [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) | TPAMI | 2016 |
 | [Convolutional Neural Networks With Low-rank Regularization](https://arxiv.org/abs/1511.06067) [![GitHub Repo stars](https://img.shields.io/github/stars/chengtaipu/lowrankcnn)](https://github.com/chengtaipu/lowrankcnn)| ICLR | 2016 |
 | [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) | ICLR | 2016 |
