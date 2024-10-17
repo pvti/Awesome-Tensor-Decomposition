@@ -16,6 +16,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621/) | NAACL Findings | 2024 |
 | [PELA: Learning Parameter-Efficient Models with Low-Rank Approximation](https://arxiv.org/abs/2310.10700) [![GitHub Repo stars](https://img.shields.io/github/stars/guoyang9/PELA)](https://github.com/guoyang9/PELA)| CVPR | 2024 |
 | [Adaptive Rank Selections for Low-Rank Approximation of Language Models](https://aclanthology.org/2024.naacl-long.13/)| ACL | 2024 |
+| [TRAWL: Tensor Reduced and Approximated Weights for Large Language Models](https://arxiv.org/abs/2406.17261) | Arxiv | 2024 |
 | [Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930)  [![GitHub Repo stars](https://img.shields.io/github/stars/snu-comparch/Tender)](https://github.com/snu-comparch/Tender)| ISCA | 2024 |
 | [Unified Low-rank Compression Framework for Click-through Rate Prediction](https://arxiv.org/abs/2405.18146) [![GitHub Repo stars](https://img.shields.io/github/stars/yuhao318/atomic_feature_mimicking)](https://github.com/yuhao318/atomic_feature_mimicking)| KDD2024 ADS | 2024 |
 | [LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models](https://arxiv.org/abs/2402.11417) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/loretta)](https://github.com/yifanycc/loretta)| NAACL | 2024 |
