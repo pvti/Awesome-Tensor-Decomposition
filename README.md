@@ -87,6 +87,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Tensor Regression Networks](https://arxiv.org/abs/1707.08308) [![GitHub Repo stars](https://img.shields.io/github/stars/JeanKossaifi/tensorly-notebooks)](https://github.com/JeanKossaifi/tensorly-notebooks)| JMLR | 2021 |
 | [Parameter Efficient Dynamic Convolution via Tensor Decomposition](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1631.html) [![GitHub Repo stars](https://img.shields.io/github/stars/zejiangh/PEDConv)](https://github.com/zejiangh/PEDConv)| BMVC | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
+| [Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/abs/2103.03936) [![GitHub Repo stars](https://img.shields.io/github/stars/hwang595/Pufferfish)](https://github.com/hwang595/Pufferfish)| MLSys | 2021 |
 | [Learning-based Tensor Decomposition with Adaptive Rank Penalty for CNNs Compression](https://ieeexplore.ieee.org/document/9565537) | MIPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
