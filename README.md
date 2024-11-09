@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition](https://arxiv.org/abs/2411.01016) [![GitHub Repo stars](https://img.shields.io/github/stars/xiaochengsky/MoEI-2)](https://github.com/xiaochengsky/MoEI-2)| EMNLP 2024 Findings | 2024 |
 | [Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](https://arxiv.org/abs/2408.01008) | Arxiv | 2024 |
 | [Dual-grained Lightweight Strategy](https://ieeexplore.ieee.org/document/10713325) | TPAMI | 2024 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](https://arxiv.org/abs/2410.03040) | Arxiv | 2024 |
