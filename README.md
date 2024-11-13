@@ -155,4 +155,5 @@ A curated list of tensor decomposition resources for *model compression*.
 - [Tensor methods in Python with TensorLy](https://github.com/JeanKossaifi/tensorly-notebooks)[![GitHub Repo stars](https://img.shields.io/github/stars/JeanKossaifi/tensorly-notebooks)](https://github.com/JeanKossaifi/tensorly-notebooks)
 - [TensorKrowch: Smooth integration of tensor networks in machine learning](https://arxiv.org/abs/2306.08595)[![GitHub Repo stars](https://img.shields.io/github/stars/joserapa98/tensorkrowch)](https://github.com/joserapa98/tensorkrowch)
 - [Tensor Learning Team](https://qibinzhao.github.io/)
-- [Awesome-LoRA](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation)
+- [Awesome-LoRA](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation) [![GitHub Repo stars](https://img.shields.io/github/stars/lliai/Awesome-LoRA-Low-Rank-Adaptation)](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation)
+- [matcouply](https://github.com/MarieRoald/matcouply) [![GitHub Repo stars](https://img.shields.io/github/stars/MarieRoald/matcouply)](https://github.com/MarieRoald/matcouply)
