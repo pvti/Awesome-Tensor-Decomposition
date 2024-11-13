@@ -2,7 +2,7 @@
 A curated list of tensor decomposition resources for *model compression*.
 
 ## :clipboard: Research Papers
-### Transformer & more
+### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition](https://arxiv.org/abs/2411.01016) [![GitHub Repo stars](https://img.shields.io/github/stars/xiaochengsky/MoEI-2)](https://github.com/xiaochengsky/MoEI-2)| EMNLP 2024 Findings | 2024 |
