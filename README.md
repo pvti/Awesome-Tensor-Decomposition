@@ -31,6 +31,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) [![GitHub Repo stars](https://img.shields.io/github/stars/yxli2123/LoSparse)](https://github.com/yxli2123/LoSparse)| ICML | 2023 |
 | [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) [![GitHub Repo stars](https://img.shields.io/github/stars/JieShibo/PETL-ViT)](https://github.com/JieShibo/PETL-ViT)| AAAI | 2023 |
 | [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
+| [TT-MLP: Tensor Train Decomposition on Deep MLPs](https://ieeexplore.ieee.org/document/10032168) | IEEE Access | 2023 |
 | [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Kronecker Decomposition for GPT Compression](https://aclanthology.org/2022.acl-short.24/) | ACL | 2022 |
 | [Language model compression with weighted low-rank factorization](https://arxiv.org/abs/2207.00112) [![GitHub Repo stars](https://img.shields.io/github/stars/RahulSChand/Weighted-low-rank-factorization-Pytorch)](https://github.com/RahulSChand/Weighted-low-rank-factorization-Pytorch)| ICLR | 2022 |
