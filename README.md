@@ -148,6 +148,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ## :blue_book: Miscellaneous
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Very Basics of Tensors with Graphical Notations: Unfolding, Calculations, and Decompositions](https://arxiv.org/abs/2411.16094) | Arxiv | 2024 |
 | [Nuclear Norm of Higher-Order Tensors](https://arxiv.org/abs/1410.6072) | Mathematics of Computation | 2018 |
 
 ## :computer: Repositories
