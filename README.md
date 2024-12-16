@@ -42,6 +42,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN & RNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10798991)| TNNLS | 2024 |
 | [TEC-CNN: Towards Efficient Compressing Convolutional Neural Nets with Low-rank Tensor Decomposition](https://dl.acm.org/doi/10.1145/3702641)| TOMM | 2024 |
 | [Activation Map Compression through Tensor Decomposition for Deep Learning](https://neurips.cc/virtual/2024/poster/95125) [![GitHub Repo stars](https://img.shields.io/github/stars/Le-TrungNguyen/NeurIPS2024-ActivationCompression)](https://github.com/Le-TrungNguyen/NeurIPS2024-ActivationCompression)| NeurIPS | 2024 |
 | [Geometry-aware training of factorized layers in tensor Tucker format](https://arxiv.org/abs/2305.19059)| NeurIPS | 2024 |
