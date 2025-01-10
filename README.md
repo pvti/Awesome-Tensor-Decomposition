@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation](https://arxiv.org/abs/2410.21271) | Arxiv | 2024 |
 | [ESPACE: Dimensionality Reduction of Activations for Model Compression](https://openreview.net/forum?id=HAcaANQNMK) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/ESPACE)](https://github.com/NVlabs/ESPACE)| NeurIPS | 2024 |
 | [MoE-I2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition](https://arxiv.org/abs/2411.01016) [![GitHub Repo stars](https://img.shields.io/github/stars/xiaochengsky/MoEI-2)](https://github.com/xiaochengsky/MoEI-2)| EMNLP 2024 Findings | 2024 |
 | [Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](https://arxiv.org/abs/2408.01008) | Arxiv | 2024 |
