@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/abs/2501.15674) | Arxiv | 2025 |
 | [DBA: Efficient Transformer With Dynamic Bilinear Low-Rank Attention](https://ieeexplore.ieee.org/document/10843139) | TNNLS | 2024 |
 | [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorgi/T6)](https://github.com/tensorgi/T6)| Arxiv | 2025 |
 | [EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation](https://arxiv.org/abs/2410.21271) | Arxiv | 2024 |
