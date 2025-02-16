@@ -40,6 +40,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) [![GitHub Repo stars](https://img.shields.io/github/stars/JieShibo/PETL-ViT)](https://github.com/JieShibo/PETL-ViT)| AAAI | 2023 |
 | [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
 | [TT-MLP: Tensor Train Decomposition on Deep MLPs](https://ieeexplore.ieee.org/document/10032168) | IEEE Access | 2023 |
+| [Matrix Compression via Randomized Low Rank and Low Precision Factorization](https://arxiv.org/abs/2310.11028) [![GitHub Repo stars](https://img.shields.io/github/stars/pilancilab/matrix-compressor)](https://github.com/pilancilab/matrix-compressor)| NeurIPS | 2023 |
 | [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475/) | EMNLP | 2022 |
 | [Kronecker Decomposition for GPT Compression](https://aclanthology.org/2022.acl-short.24/) | ACL | 2022 |
