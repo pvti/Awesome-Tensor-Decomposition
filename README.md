@@ -55,6 +55,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [Low-Rank Compression for IMC Arrays](https://www.arxiv.org/abs/2502.07820) | Arxiv | 2025 |
+| [Quantization Aware Factorization for Deep Neural Network Compression](https://www.jair.org/index.php/jair/article/view/16167) | JAIR | 2024 |
 | [J-Tucker: Joint Compression Scheme for Efficient Deployment of Multi-Task Deep Learning Models on Edge Devices](https://ieeexplore.ieee.org/document/10794779) | IEEE Network | 2024 |
 | [Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10798991)| TNNLS | 2024 |
 | [TEC-CNN: Towards Efficient Compressing Convolutional Neural Nets with Low-rank Tensor Decomposition](https://dl.acm.org/doi/10.1145/3702641)| TOMM | 2024 |
