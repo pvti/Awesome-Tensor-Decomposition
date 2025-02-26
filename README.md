@@ -50,6 +50,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) [![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/linformer)](https://github.com/lucidrains/linformer)| Arxiv | 2020 |
 | [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/abs/1910.13923) [![GitHub Repo stars](https://img.shields.io/github/stars/gentaiscool/end2end-asr-pytorch)](https://github.com/gentaiscool/end2end-asr-pytorch) [![GitHub Repo stars](https://img.shields.io/github/stars/SamuelCahyawijaya/greenformer)](https://github.com/SamuelCahyawijaya/greenformer)| ICASSP | 2020 |
 | [A Tensorized Transformer for Language Modeling](https://arxiv.org/abs/1906.09777) [![GitHub Repo stars](https://img.shields.io/github/stars/szhangtju/The-compression-of-Transformer)](https://github.com/szhangtju/The-compression-of-Transformer)| NeurIPS | 2019 |
+| [GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking](https://arxiv.org/abs/1806.06950)| NIPS | 2018 |
 
 ### CNN & RNN
 | Title                                                        | Venue      | Year |
