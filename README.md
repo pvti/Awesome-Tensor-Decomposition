@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Breaking the Low-Rank Dilemma of Linear Attention](https://arxiv.org/abs/2411.07635) [![GitHub Repo stars](https://img.shields.io/github/stars/qhfan/RALA)](https://github.com/qhfan/RALA)| CVPR | 2025 |
 | [FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing](https://arxiv.org/abs/2501.14713) | NAACL | 2025 |
 | [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/abs/2501.15674) | Arxiv | 2025 |
 | [DBA: Efficient Transformer With Dynamic Bilinear Low-Rank Attention](https://ieeexplore.ieee.org/document/10843139) | TNNLS | 2024 |
