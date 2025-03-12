@@ -5,6 +5,10 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Dobi-SVD: Differentiable SVD for LLM Compression and Some New Perspectives](https://arxiv.org/abs/2502.02723) [![GitHub Repo stars](https://img.shields.io/github/stars/wangqinsi1/Dobi-SVD)](https://github.com/wangqinsi1/Dobi-SVD)| ICLR | 2025 |
+| [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) | ICLR | 2025 |
+| [Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression](https://arxiv.org/abs/2410.03765) [![GitHub Repo stars](https://img.shields.io/github/stars/TUDa-HWAI/Basis_Sharing)](https://github.com/TUDa-HWAI/Basis_Sharing)| ICLR | 2025 |
+| [SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression](https://arxiv.org/abs/2403.07378) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| ICLR | 2025 |
 | [HASSLE-free: A unified Framework for Sparse plus Low-Rank Matrix Decomposition for LLMs](https://arxiv.org/abs/2502.00899) [![GitHub Repo stars](https://img.shields.io/github/stars/mazumder-lab/HASSLE-free)](https://github.com/mazumder-lab/HASSLE-free)| CPAL | 2025 |
 | [Breaking the Low-Rank Dilemma of Linear Attention](https://arxiv.org/abs/2411.07635) [![GitHub Repo stars](https://img.shields.io/github/stars/qhfan/RALA)](https://github.com/qhfan/RALA)| CVPR | 2025 |
 | [FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing](https://arxiv.org/abs/2501.14713) | NAACL | 2025 |
@@ -20,9 +24,6 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](https://arxiv.org/abs/2410.03040) | Arxiv | 2024 |
 | [From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients](https://arxiv.org/abs/2407.11239) [![GitHub Repo stars](https://img.shields.io/github/stars/VITA-Group/WeLore)](https://github.com/VITA-Group/WeLore)| Arxiv | 2024 |
 | [The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558) [![GitHub Repo stars](https://img.shields.io/github/stars/pratyushasharma/laser)](https://github.com/pratyushasharma/laser)| ICLR | 2024 |
-| [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) | Arxiv | 2024 |
-| [Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression](https://arxiv.org/abs/2410.03765) [![GitHub Repo stars](https://img.shields.io/github/stars/TUDa-HWAI/Basis_Sharing)](https://github.com/TUDa-HWAI/Basis_Sharing)| Arxiv | 2024 |
-| [SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression](https://arxiv.org/abs/2403.07378) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| Arxiv | 2024 |
 | [ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models](https://arxiv.org/abs/2312.05821) [![GitHub Repo stars](https://img.shields.io/github/stars/hahnyuan/ASVD4LLM)](https://github.com/hahnyuan/ASVD4LLM)| Arxiv | 2024 |
 | [AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning](https://arxiv.org/abs/2406.18060) [![GitHub Repo stars](https://img.shields.io/github/stars/yifanycc/AdaZeta)](https://github.com/yifanycc/AdaZeta)| EMNLP | 2024 |
 | [Adaptive Rank Selections for Low-Rank Approximation of Language Models](https://aclanthology.org/2024.naacl-long.13/) [![GitHub Repo stars](https://img.shields.io/github/stars/sidhantls/adaptive-rank-selection-svd)](https://github.com/sidhantls/adaptive-rank-selection-svd)| NAACL | 2024 |
