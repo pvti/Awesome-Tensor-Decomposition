@@ -170,6 +170,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [Very Basics of Tensors with Graphical Notations: Unfolding, Calculations, and Decompositions](https://arxiv.org/abs/2411.16094) | Arxiv | 2024 |
+| [Tensor decompositions and their applications](https://tensordec.maths.unitn.it/material/2021_Masterclass_Nick/MCT02-Tucker.pdf) | | 2021 |
 | [Nuclear Norm of Higher-Order Tensors](https://arxiv.org/abs/1410.6072) | Mathematics of Computation | 2018 |
 
 ## :computer: Repositories
