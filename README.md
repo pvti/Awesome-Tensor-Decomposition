@@ -13,6 +13,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Breaking the Low-Rank Dilemma of Linear Attention](https://arxiv.org/abs/2411.07635) [![GitHub Repo stars](https://img.shields.io/github/stars/qhfan/RALA)](https://github.com/qhfan/RALA)| CVPR | 2025 |
 | [FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing](https://arxiv.org/abs/2501.14713) | NAACL | 2025 |
 | [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/abs/2501.15674) | Arxiv | 2025 |
+| [Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices](https://arxiv.org/abs/2410.02117) [![GitHub Repo stars](https://img.shields.io/github/stars/AndPotap/einsum-search)](https://github.com/AndPotap/einsum-search)| NeurIPS | 2024 |
 | [DBA: Efficient Transformer With Dynamic Bilinear Low-Rank Attention](https://ieeexplore.ieee.org/document/10843139) | TNNLS | 2024 |
 | [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorgi/T6)](https://github.com/tensorgi/T6)| Arxiv | 2025 |
 | [EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation](https://arxiv.org/abs/2410.21271) | Arxiv | 2024 |
