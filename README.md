@@ -137,6 +137,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Compressing Deep Models using Multi Tensor Train Decomposition](https://ieeexplore.ieee.org/document/9074612) | ICCAIS | 2019 |
 | [Compressing Fully Connected Layers using Kronecker Tensor Decomposition](https://ieeexplore.ieee.org/document/8962432) | ICCSNT | 2019 |
 | [Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=r1xFE3Rqt7) [![GitHub Repo stars](https://img.shields.io/github/stars/zuenko/ALRF)](https://github.com/zuenko/ALRF)| OpenReview | 2019 |
+| [Sharing Residual Units Through Collective Tensor Factorization To Improve Deep Neural Networks](https://arxiv.org/abs/1703.02180) | IJCAI | 2018 |
 | [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](https://arxiv.org/abs/1712.05134) | CVPR | 2018 |
 | [Wide Compression: Tensor Ring Nets](https://arxiv.org/abs/1802.09052) | CVPR | 2018 |
 | [Self-supervised Knowledge Distillation Using Singular Value Decomposition](https://arxiv.org/abs/1807.06819) [![GitHub Repo stars](https://img.shields.io/github/stars/sseung0703/SSKD_SVD)](https://github.com/sseung0703/SSKD_SVD)| ECCV | 2018 |
