@@ -59,6 +59,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN & RNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Fine-grained hierarchical singular value decomposition for convolutional neural networks compression and acceleration](https://doi.org/10.1016/j.neucom.2025.129966) | Neurocomputing | 2025 |
 | [Low-Rank Compression for IMC Arrays](https://www.arxiv.org/abs/2502.07820) | Arxiv | 2025 |
 | [Quantization Aware Factorization for Deep Neural Network Compression](https://www.jair.org/index.php/jair/article/view/16167) | JAIR | 2024 |
 | [J-Tucker: Joint Compression Scheme for Efficient Deployment of Multi-Task Deep Learning Models on Edge Devices](https://ieeexplore.ieee.org/document/10794779) | IEEE Network | 2024 |
