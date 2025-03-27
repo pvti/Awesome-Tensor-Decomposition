@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [NdLinear Is All You Need for Representation Learning](https://arxiv.org/abs/2503.17353) [![GitHub Repo stars](https://img.shields.io/github/stars/ensemble-core/NdLinear)](https://github.com/ensemble-core/NdLinear)| Arxiv | 2025 |
 | [xKV: Cross-Layer SVD for KV-Cache Compression](https://arxiv.org/abs/2503.18893) [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/xKV)](https://github.com/abdelfattah-lab/xKV)| Arxiv | 2025 |
 | [Dobi-SVD: Differentiable SVD for LLM Compression and Some New Perspectives](https://arxiv.org/abs/2502.02723) [![GitHub Repo stars](https://img.shields.io/github/stars/wangqinsi1/Dobi-SVD)](https://github.com/wangqinsi1/Dobi-SVD)| ICLR | 2025 |
 | [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) | ICLR | 2025 |
