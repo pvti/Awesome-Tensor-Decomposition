@@ -72,6 +72,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Robustness of Tensor Decomposition-Based Neural Network Compression](https://ieeexplore.ieee.org/document/10647942)| ICIP | 2024 |
 | [How to Train Your Unstable Looped Tensor Network](https://ieeexplore.ieee.org/document/10695808)| JSTSP | 2024 |
 | [Learning Low-Rank Tensor Cores with Probabilistic l0-Regularized Rank Selection for Model Compression](https://www.ijcai.org/proceedings/2024/418) [![GitHub Repo stars](https://img.shields.io/github/stars/ctxGou/Tensor-L0-Compression)](https://github.com/ctxGou/Tensor-L0-Compression)| IJCAI | 2024 |
+| [Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition](https://arxiv.org/abs/2405.03089) [![GitHub Repo stars](https://img.shields.io/github/stars/XitongSystem/LoRITa)](https://github.com/XitongSystem/LoRITa)| TMLR | 2024 |
 | [Compact Model Training by Low-Rank Projection With Energy Transfer](https://ieeexplore.ieee.org/document/10551437) [![GitHub Repo stars](https://img.shields.io/github/stars/BZQLin/LRPET)](https://github.com/BZQLin/LRPET)| TNNLS | 2024 |
 | [An Accuracy-Preserving Neural Network Compression via Tucker Decomposition](https://ieeexplore.ieee.org/document/10614384)| IEEE Transactions on Sustainable Computing | 2024 |
 | [Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/document/10689618)| TNNLS | 2024 |
