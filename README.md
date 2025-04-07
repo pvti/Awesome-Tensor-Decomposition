@@ -47,6 +47,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Singularformer: Learning to Decompose Self-Attention to Linearize the Complexity of Transformer](https://www.ijcai.org/proceedings/2023/493) [![GitHub Repo stars](https://img.shields.io/github/stars/CSUBioGroup/Singularformer)](https://github.com/CSUBioGroup/Singularformer)| IJCAI | 2023 |
 | [LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) [![GitHub Repo stars](https://img.shields.io/github/stars/yxli2123/LoSparse)](https://github.com/yxli2123/LoSparse)| ICML | 2023 |
 | [FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer](https://arxiv.org/abs/2212.03145) [![GitHub Repo stars](https://img.shields.io/github/stars/JieShibo/PETL-ViT)](https://github.com/JieShibo/PETL-ViT)| AAAI | 2023 |
+| [LightFormer: Light-weight Transformer Using SVD-based Weight Transfer and Parameter Sharing](https://aclanthology.org/2023.findings-acl.656/) | ACL | 2023 |
 | [Compressing Transformers: Features Are Low-Rank, but Weights Are Not!](https://ojs.aaai.org/index.php/AAAI/article/view/26304) | AAAI | 2023 |
 | [TT-MLP: Tensor Train Decomposition on Deep MLPs](https://ieeexplore.ieee.org/document/10032168) | IEEE Access | 2023 |
 | [Matrix Compression via Randomized Low Rank and Low Precision Factorization](https://arxiv.org/abs/2310.11028) [![GitHub Repo stars](https://img.shields.io/github/stars/pilancilab/matrix-compressor)](https://github.com/pilancilab/matrix-compressor)| NeurIPS | 2023 |
