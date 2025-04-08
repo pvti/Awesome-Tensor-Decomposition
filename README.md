@@ -55,6 +55,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Strategies for Applying Low Rank Decomposition to Transformer-Based Models](https://neurips2022-enlsp.github.io/papers/paper_33.pdf) | NeurIPS | 2022 |
 | [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475/) | EMNLP | 2022 |
 | [Kronecker Decomposition for GPT Compression](https://aclanthology.org/2022.acl-short.24/) | ACL | 2022 |
+| [Deeply Tensor Compressed Transformers for End-to-End Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20397) | AAAI | 2022 |
 | [Language model compression with weighted low-rank factorization](https://arxiv.org/abs/2207.00112) [![GitHub Repo stars](https://img.shields.io/github/stars/RahulSChand/Weighted-low-rank-factorization-Pytorch)](https://github.com/RahulSChand/Weighted-low-rank-factorization-Pytorch)| ICLR | 2022 |
 | [DRONE: Data-aware Low-rank Compression for Large NLP Models](https://proceedings.neurips.cc/paper/2021/hash/f56de5ef149cf0aedcc8f4797031e229-Abstract.html) | NeurIPS | 2021 |
 | [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) [![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/linformer)](https://github.com/lucidrains/linformer)| Arxiv | 2020 |
