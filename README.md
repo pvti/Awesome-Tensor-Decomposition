@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33923) [![GitHub Repo stars](https://img.shields.io/github/stars/Ppaddington/SoLA)](https://github.com/Ppaddington/SoLA)| AAAI | 2025 |
 | [SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression](https://arxiv.org/abs/2503.12340) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| NAACL | 2025 |
 | [NdLinear Is All You Need for Representation Learning](https://arxiv.org/abs/2503.17353) [![GitHub Repo stars](https://img.shields.io/github/stars/ensemble-core/NdLinear)](https://github.com/ensemble-core/NdLinear)| Arxiv | 2025 |
 | [xKV: Cross-Layer SVD for KV-Cache Compression](https://arxiv.org/abs/2503.18893) [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/xKV)](https://github.com/abdelfattah-lab/xKV)| Arxiv | 2025 |
