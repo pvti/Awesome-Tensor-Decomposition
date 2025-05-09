@@ -200,6 +200,7 @@ A curated list of tensor decomposition resources for *model compression*.
 - [Tensor Learning Team](https://qibinzhao.github.io/)
 - [Awesome-LoRA](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation) [![GitHub Repo stars](https://img.shields.io/github/stars/lliai/Awesome-LoRA-Low-Rank-Adaptation)](https://github.com/lliai/Awesome-LoRA-Low-Rank-Adaptation)
 - [matcouply](https://github.com/MarieRoald/matcouply) [![GitHub Repo stars](https://img.shields.io/github/stars/MarieRoald/matcouply)](https://github.com/MarieRoald/matcouply)
+- [torchTT](https://github.com/ion-g-ion/torchTT) [![GitHub Repo stars](https://img.shields.io/github/stars/ion-g-ion/torchTT)](https://github.com/ion-g-ion/torchTT)
 
 ## :question: Workshops
 - [LoRAINNe’24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks](https://cran-simul.github.io/workshop-lorainne-2024/)
