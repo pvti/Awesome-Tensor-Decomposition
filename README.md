@@ -130,6 +130,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Nonlinear tensor train format for deep neural network compression](https://doi.org/10.1016/j.neunet.2021.08.028) | Neural Networks | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
 | [Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/abs/2103.03936) [![GitHub Repo stars](https://img.shields.io/github/stars/hwang595/Pufferfish)](https://github.com/hwang595/Pufferfish)| MLSys | 2021 |
+| [Kronecker CP Decomposition With Fast Multiplication for Compressing RNNs](https://arxiv.org/abs/2008.09342) | TNNLS | 2021 |
 | [Learning-based Tensor Decomposition with Adaptive Rank Penalty for CNNs Compression](https://ieeexplore.ieee.org/document/9565537) | MIPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
