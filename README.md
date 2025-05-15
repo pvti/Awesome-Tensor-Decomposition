@@ -135,6 +135,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
 | [Block-term tensor neural networks](https://www.sciencedirect.com/science/article/pii/S0893608020302045)| Neural Networks | 2020 |
+| [Stable Low-rank Tensor Decomposition for Compression of Convolutional Neural Network](https://arxiv.org/abs/2008.05441) | ECCV | 2020 |
 | [Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://ieeexplore.ieee.org/document/9157223) [![GitHub Repo stars](https://img.shields.io/github/stars/UCMerced-ML/LC-model-compression)](https://github.com/UCMerced-ML/LC-model-compression)| CVPR | 2020 |
 | [Few Sample Knowledge Distillation for Efficient Network Compression](https://arxiv.org/abs/1812.01839) [![GitHub Repo stars](https://img.shields.io/github/stars/LTH14/FSKD)](https://github.com/LTH14/FSKD)| CVPR | 2020 |
 | [Factorized Higher-Order CNNs with an Application to Spatio-Temporal Emotion Estimation](https://arxiv.org/abs/1906.06196) | CVPR | 2020 |
