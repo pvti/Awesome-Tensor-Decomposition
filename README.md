@@ -65,7 +65,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [A Tensorized Transformer for Language Modeling](https://arxiv.org/abs/1906.09777) [![GitHub Repo stars](https://img.shields.io/github/stars/szhangtju/The-compression-of-Transformer)](https://github.com/szhangtju/The-compression-of-Transformer)| NeurIPS | 2019 |
 | [GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking](https://arxiv.org/abs/1806.06950)| NIPS | 2018 |
 
-### CNN & RNN
+### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
@@ -130,7 +130,6 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Nonlinear tensor train format for deep neural network compression](https://doi.org/10.1016/j.neunet.2021.08.028) | Neural Networks | 2021 |
 | [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://ieeexplore.ieee.org/document/9577813) | CVPR | 2021 |
 | [Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/abs/2103.03936) [![GitHub Repo stars](https://img.shields.io/github/stars/hwang595/Pufferfish)](https://github.com/hwang595/Pufferfish)| MLSys | 2021 |
-| [Kronecker CP Decomposition With Fast Multiplication for Compressing RNNs](https://arxiv.org/abs/2008.09342) | TNNLS | 2021 |
 | [Learning-based Tensor Decomposition with Adaptive Rank Penalty for CNNs Compression](https://ieeexplore.ieee.org/document/9565537) | MIPR | 2021 |
 | [Deep Convolutional Neural Network Compression via Coupled Tensor Decomposition](https://ieeexplore.ieee.org/document/9261106) | JSTSP | 2021 |
 | [Tensor Reordering for CNN Compression](https://arxiv.org/abs/2010.12110) | ICASSP | 2021 |
@@ -171,6 +170,11 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Ultimate tensorization: compressing convolutional and FC layers alike](https://arxiv.org/abs/1611.03214) [![GitHub Repo stars](https://img.shields.io/github/stars/timgaripov/TensorNet-TF)](https://github.com/timgaripov/TensorNet-TF) | NIPSW | 2016 |
 | [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553) | ICLR | 2015 |
 | [Speeding up Convolutional Neural Networks with Low Rank Expansions](https://arxiv.org/abs/1405.3866) | Arxiv | 2014 |
+
+### RNN
+| Title                                                        | Venue      | Year |
+| ------------------------------------------------------------ | ---------- | ---- |
+| [Kronecker CP Decomposition With Fast Multiplication for Compressing RNNs](https://arxiv.org/abs/2008.09342) | TNNLS | 2021 |
 
 ## :books: Surveys
 | Title                                                        | Venue      | Year |
