@@ -198,6 +198,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Nuclear Norm of Higher-Order Tensors](https://arxiv.org/abs/1410.6072) | Mathematics of Computation | 2018 |
 
 ## :computer: Repositories
+- [tednet](https://github.com/tnbar/tednet) [![GitHub Repo stars](https://img.shields.io/github/stars/tnbar/tednet)](https://github.com/tnbar/tednet)
 - [TensorLy](https://github.com/tensorly/tensorly) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/tensorly)](https://github.com/tensorly/tensorly)
 - [TensorLy-Torch](https://tensorly.org/torch/dev/) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/torch)](https://github.com/tensorly/torch)
 - [PyTorch Tensor Decompositions](https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning)[![GitHub Repo stars](https://img.shields.io/github/stars/jacobgil/pytorch-tensor-decompositions)](https://github.com/jacobgil/pytorch-tensor-decompositions)
