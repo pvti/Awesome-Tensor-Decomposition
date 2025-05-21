@@ -155,6 +155,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Sharing Residual Units Through Collective Tensor Factorization To Improve Deep Neural Networks](https://arxiv.org/abs/1703.02180) | IJCAI | 2018 |
 | [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](https://arxiv.org/abs/1712.05134) | CVPR | 2018 |
 | [Wide Compression: Tensor Ring Nets](https://arxiv.org/abs/1802.09052) | CVPR | 2018 |
+| [DCFNet: Deep Neural Network with Decomposed Convolutional Filters](https://arxiv.org/abs/1802.04145) [![GitHub Repo stars](https://img.shields.io/github/stars/ZeWang95/DCFNet-Pytorch)](https://github.com/ZeWang95/DCFNet-Pytorch)| ICML | 2018 |
 | [Self-supervised Knowledge Distillation Using Singular Value Decomposition](https://arxiv.org/abs/1807.06819) [![GitHub Repo stars](https://img.shields.io/github/stars/sseung0703/SSKD_SVD)](https://github.com/sseung0703/SSKD_SVD)| ECCV | 2018 |
 | [Extreme Network Compression via Filter Group Approximation](https://arxiv.org/abs/1807.11254) | ECCV | 2018 |
 | [Network Decoupling: From Regular to Depthwise Separable Convolutions](https://arxiv.org/abs/1808.05517) [![GitHub Repo stars](https://img.shields.io/github/stars/JianboGuo/network-decoupling)](https://github.com/JianboGuo/network-decoupling)| BMVC | 2018 |
