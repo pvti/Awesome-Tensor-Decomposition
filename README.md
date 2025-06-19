@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Canonical Rank Adaptation: An Efficient Fine-Tuning Strategy for Vision Transformers](https://icml.cc/virtual/2025/poster/43662) | ICML | 2025 |
 | [FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression](https://arxiv.org/abs/2505.23966) [![GitHub Repo stars](https://img.shields.io/github/stars/TTTTTTris/FLAT-LLM)](https://github.com/TTTTTTris/FLAT-LLM)| Arxiv | 2025 |
 | [SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33923) [![GitHub Repo stars](https://img.shields.io/github/stars/Ppaddington/SoLA)](https://github.com/Ppaddington/SoLA)| AAAI | 2025 |
 | [SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression](https://arxiv.org/abs/2503.12340) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| NAACL | 2025 |
