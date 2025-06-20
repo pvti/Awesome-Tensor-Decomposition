@@ -5,12 +5,14 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Beyond Low-rank Decomposition: A Shortcut Approach for Efficient On-Device Learning](https://arxiv.org/abs/2505.05086) | ICML | 2025 |
 | [Canonical Rank Adaptation: An Efficient Fine-Tuning Strategy for Vision Transformers](https://icml.cc/virtual/2025/poster/43662) | ICML | 2025 |
 | [FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression](https://arxiv.org/abs/2505.23966) [![GitHub Repo stars](https://img.shields.io/github/stars/TTTTTTris/FLAT-LLM)](https://github.com/TTTTTTris/FLAT-LLM)| Arxiv | 2025 |
 | [SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33923) [![GitHub Repo stars](https://img.shields.io/github/stars/Ppaddington/SoLA)](https://github.com/Ppaddington/SoLA)| AAAI | 2025 |
 | [SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression](https://arxiv.org/abs/2503.12340) [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)| NAACL | 2025 |
 | [NdLinear Is All You Need for Representation Learning](https://arxiv.org/abs/2503.17353) [![GitHub Repo stars](https://img.shields.io/github/stars/ensemble-core/NdLinear)](https://github.com/ensemble-core/NdLinear)| Arxiv | 2025 |
 | [xKV: Cross-Layer SVD for KV-Cache Compression](https://arxiv.org/abs/2503.18893) [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/xKV)](https://github.com/abdelfattah-lab/xKV)| Arxiv | 2025 |
+| [Efficient Learning With Sine-Activated Low-rank Matrices](https://arxiv.org/abs/2403.19243)| ICLR | 2025 |
 | [Palu: Compression KV-Cache with Low-Rank Decomposition](https://arxiv.org/abs/2407.21118) [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/Palu)](https://github.com/shadowpa0327/Palu)| ICLR | 2025 |
 | [Dobi-SVD: Differentiable SVD for LLM Compression and Some New Perspectives](https://arxiv.org/abs/2502.02723) [![GitHub Repo stars](https://img.shields.io/github/stars/wangqinsi1/Dobi-SVD)](https://github.com/wangqinsi1/Dobi-SVD)| ICLR | 2025 |
 | [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) | ICLR | 2025 |
