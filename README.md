@@ -221,3 +221,4 @@ A curated list of tensor decomposition resources for *model compression*.
 - [Tensor Workshops](https://tensorworkshop.github.io/)
 - [LoRAINNe’24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks](https://cran-simul.github.io/workshop-lorainne-2024/)
 - [AAAI'25 workshop on CoLoRAI - Connecting Low-Rank Representations in AI](https://april-tools.github.io/colorai/)
+- [Workshop on Low-Rank Models and Applications LRMA 25](https://sites.google.com/view/lrma25)
