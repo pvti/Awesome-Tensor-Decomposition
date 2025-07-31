@@ -5,6 +5,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### Transformer, LLM & more
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [LS-PRISM: A layer-selective pruning method via low-rank approximation and sparsification for efficient large language model compression](https://doi.org/10.1016/j.neunet.2025.107909) | Neural Networks | 2025 |
 | [Beyond Low-rank Decomposition: A Shortcut Approach for Efficient On-Device Learning](https://arxiv.org/abs/2505.05086) | ICML | 2025 |
 | [Canonical Rank Adaptation: An Efficient Fine-Tuning Strategy for Vision Transformers](https://icml.cc/virtual/2025/poster/43662) | ICML | 2025 |
 | [FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression](https://arxiv.org/abs/2505.23966) [![GitHub Repo stars](https://img.shields.io/github/stars/TTTTTTris/FLAT-LLM)](https://github.com/TTTTTTris/FLAT-LLM)| Arxiv | 2025 |
