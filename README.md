@@ -77,6 +77,7 @@ A curated list of tensor decomposition resources for *model compression*.
 ### CNN
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [An overview of tensor and matrix decomposition methods, applied to deep neural networks](https://link.springer.com/article/10.1007/s12530-025-09733-6) | Evolving Systems | 2025 |
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
 | [Fine-grained hierarchical singular value decomposition for convolutional neural networks compression and acceleration](https://doi.org/10.1016/j.neucom.2025.129966) | Neurocomputing | 2025 |
 | [Low-Rank Compression for IMC Arrays](https://www.arxiv.org/abs/2502.07820) | Arxiv | 2025 |
