@@ -211,6 +211,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Nuclear Norm of Higher-Order Tensors](https://arxiv.org/abs/1410.6072) | Mathematics of Computation | 2018 |
 
 ## :computer: Repositories
+- [TensorKit.jl: A Julia package for large-scale tensor computations, with a hint of category theory](https://arxiv.org/abs/2508.10076)[![GitHub Repo stars](https://img.shields.io/github/stars/Jutho/TensorKit.jl)](https://github.com/Jutho/TensorKit.jl)
 - [tednet](https://github.com/tnbar/tednet) [![GitHub Repo stars](https://img.shields.io/github/stars/tnbar/tednet)](https://github.com/tnbar/tednet)
 - [TensorLy](https://github.com/tensorly/tensorly) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/tensorly)](https://github.com/tensorly/tensorly)
 - [TensorLy-Torch](https://tensorly.org/torch/dev/) [![GitHub Repo stars](https://img.shields.io/github/stars/tensorly/torch)](https://github.com/tensorly/torch)
