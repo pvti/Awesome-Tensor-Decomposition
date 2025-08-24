@@ -133,6 +133,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [Nested compression of convolutional neural networks with Tucker-2 decomposition](https://ieeexplore.ieee.org/abstract/document/9892959) | IJCNN | 2022 |
 | [PSM-nets: Compressing Neural Networks with Product of Sparse Matrices](https://ieeexplore.ieee.org/abstract/document/9533408) | IJCNN | 2022 |
 | [A Design Space Exploration Methodology for Enabling Tensor Train Decomposition in Edge Devices](https://link.springer.com/chapter/10.1007/978-3-031-15074-6_11) | SAMOS | 2022 |
+| [Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks](https://openreview.net/forum?id=Alr5_kKmLBX) | NeurIPS | 2021 |
 | [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://arxiv.org/abs/2107.11442) [![GitHub Repo stars](https://img.shields.io/github/stars/lucaslie/torchprune)](https://github.com/lucaslie/torchprune)| NeurIPS | 2021 |
 | [Deeply Shared Filter Bases for Parameter-Efficient Convolutional Neural Networks](https://arxiv.org/abs/2006.05066) [![GitHub Repo stars](https://img.shields.io/github/stars/ssregibility/Net_RL2)](https://github.com/ssregibility/Net_RL2)| NeurIPS | 2021 |
 | [Tensor Regression Networks](https://arxiv.org/abs/1707.08308) [![GitHub Repo stars](https://img.shields.io/github/stars/JeanKossaifi/tensorly-notebooks)](https://github.com/JeanKossaifi/tensorly-notebooks)| JMLR | 2021 |
