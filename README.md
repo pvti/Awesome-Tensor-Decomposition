@@ -81,6 +81,7 @@ A curated list of tensor decomposition resources for *model compression*.
 | [FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training](https://arxiv.org/abs/2504.06474) | Arxiv | 2025 |
 | [Fine-grained hierarchical singular value decomposition for convolutional neural networks compression and acceleration](https://doi.org/10.1016/j.neucom.2025.129966) | Neurocomputing | 2025 |
 | [Low-Rank Compression for IMC Arrays](https://www.arxiv.org/abs/2502.07820) | Arxiv | 2025 |
+| [Enhancing GANs With MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition](https://ieeexplore.ieee.org/document/10732016) [![GitHub Repo stars](https://img.shields.io/github/stars/PrasannaPulakurthi/MMD-PMish-NAS-GAN)](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS-GAN) | IEEE ACCESS | 2024 |
 | [Quantization Aware Factorization for Deep Neural Network Compression](https://www.jair.org/index.php/jair/article/view/16167) | JAIR | 2024 |
 | [J-Tucker: Joint Compression Scheme for Efficient Deployment of Multi-Task Deep Learning Models on Edge Devices](https://ieeexplore.ieee.org/document/10794779) | IEEE Network | 2024 |
 | [3D-KCPNet: Efficient 3DCNNs based on tensor mapping theory](https://doi.org/10.1016/j.neucom.2023.126985) | Neurocomputing | 2024 |
